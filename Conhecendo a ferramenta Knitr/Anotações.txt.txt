@@ -1,0 +1,2 @@
+Link para conhecer mais sobre essa ferramenta:https://sachsmc.github.io/knit-git-markr-guide/knitr/knit.html
+knitr é um R pacote que integra computação e relatórios.
