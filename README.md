@@ -2,4 +2,4 @@
 Desafio de Projeto
 
 ## Links Úteis
-[Sintaxe Basica  Knitr](https://bookdown.org/yihui/rmarkdown-cookbook/working-directory.html/basic-syntax/)
+[Directory Knitr](https://bookdown.org/yihui/rmarkdown-cookbook/working-directory.html/directory/)
