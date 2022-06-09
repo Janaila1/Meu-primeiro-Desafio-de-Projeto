@@ -2,4 +2,4 @@
 Desafio de Projeto
 
 ## Links Úteis
-[Sintaxe Basica  Knitr](https://kbroman.org/knitr_knutshell/basic-syntax/)
+[Sintaxe Basica  Knitr](https://kbroman.org/basic-syntax/)
